@@ -40,7 +40,6 @@ We will use the following datasets in our project:
 * Algorithm development
 * Visualization
 * Integration
-* Backtesting
 * Paper trading
 
 ### Tasks in detail
