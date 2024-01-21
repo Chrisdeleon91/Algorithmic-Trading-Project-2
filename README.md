@@ -1,21 +1,16 @@
-### To be updated before presentation on 1/22/24
-
-# Algorithmic Trading
+# Algorithmic Trading Project 2 
 ## How to use
 
 https://github.com/Chrisdeleon91/Algorithmic-Trading-Project-2
-1. run .ipynb to open jupyter notebook
-2. run streamline_hft.py (using python, must pip install streamlit) in terminal,  type in command " streamlit run streamline_HFT.py" in terminal to view
+1. run the .ipynbs to open the jupyter notebooks
 
 ### Authors: Christopher De Leon, Victor Andujar, Russell Gould
 
 ### Introduction
 
-Algorithmic trading...
-
 * **System Design & Architecture**: To be led by Christopher, outlining the main components of the trading system and how they will interact.
 
-* **Algorithm Development**: Chris and Russell will collaborate to design, test and optimize our high-frequency trading algorithms using Backtrader.
+* **Algorithm Development**: Chris and Russell will collaborate to design, test and optimize our trading algorithms using Backtrader.
 
 * **Interface Design**: Victor will take the helm in designing a sleek, intuitive, and interactive interface using Streamlit, ensuring the system is user-friendly and efficient.
 
@@ -25,21 +20,22 @@ Algorithmic trading...
 
 ### Research Questions
 **Our research questions are as follows**:
-* 
-* 
-* 
-* 
+* Does a neural network or a svm model perform better for stock market predictions?
+* How can we fully automate this process, with very little user intervention?
+* Can we gather sentiment data, live and hourly to make this work?
+* Will PCA help NN's or SVM models perform better?
 
 ### Datasets
 We will use the following datasets in our project:
-* 
-* 
+* Augomento.AI dataset
+* Kaggle/Alternative.me Fear and greed dataset 
 
 ### Overview of Tasks
 * Data cleaning and formatting
 * Algorithm development
 * Visualization
 * Integration
+* * Back testing
 * Paper trading
 
 ### Tasks in detail
@@ -52,15 +48,15 @@ We will use Pandas to clean and format the cryptocurrency dataset. This will inv
 
 **Algorithm Development**
 
-We will use a library/API, such as Zipline or PyFinance, to implement our HFT algorithm. We will need to develop a trading strategy that can identify and exploit profitable trading opportunities in the cryptocurrency market.
+We will use a machine learning model to create our predictions and implement our algorithm using the predicted buy and sell signals. We hope with machine learning it can develop a trading strategy that can identify and exploit profitable trading opportunities in the cryptocurrency market.
 
 **Visualization**
 
-We will use PyViz, GeoView, and Hvplot to create six to eight visualizations of our data. These visualizations will help us to understand the data and to identify any potential trading opportunities.
+We will use Plotty Express and backtraderto visualize our data. These visualizations will help us to understand the data and to identify any potential trading opportunities.
 
 **Integration**
 
-We will use Streamlit to integrate the six to eight visualizations required. Streamlit will allow us to create a web-based dashboard that will make it easy to monitor the performance of our trading system.
+We will use backtrader to integrate the algorithms and visualizations required.
 
 **Paper Trading**
 
@@ -72,6 +68,6 @@ We will monitor the performance of our trading system in paper trading and make 
 
 ### Conclusion
 
-We believe that this project has the potential to develop a profitable algorithmic trading system for cryptocurrencies. We are committed to working hard to complete this project on time and within budget. We look forward to sharing our results with the class and the instructional team.
+We believe that this project has the potential to develop a machine learning system that can create profitable algorithmic trading system for cryptocurrencies. We are committed to working hard to complete this project on time and within budget. We look forward to sharing our results with the class and the instructional team.
 
 ![Picture](https://www.columbia.edu/content/themes/custom/columbia/assets/img/cu-header.svg)
