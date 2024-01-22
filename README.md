@@ -11,9 +11,9 @@ run the .ipynbs to open the jupyter notebooks
 
 * **Algorithm Development**: Chris and Russell will collaborate to design, test and optimize our trading algorithms using Backtrader.
 
-* **Interface Design**: Victor will take the helm in designing a sleek, intuitive, and interactive interface using Streamlit, ensuring the system is user-friendly and efficient.
+* **Interface Design**: Victor will take the helm in designing a sleek, intuitive, and interactive interface using Plotty Express, ensuring the system is user-friendly and efficient.
 
-* **Data Management**: Victor and Russell will ata sourcing, formatting and data management.
+* **Data Management**: Victor and Russell: data sourcing, formatting and data management.
 
 * **Integration & Testing**: The team will collaborate in this final phase to integrate all system components, followed by rigorous testing to ensure optimal performance.
 
@@ -27,7 +27,7 @@ run the .ipynbs to open the jupyter notebooks
 ### Datasets
 We will use the following datasets in our project:
 * Augomento.AI dataset
-* Kaggle/Alternative.me Fear and greed dataset 
+* Kaggle/Alternative.me Fear and Greed dataset 
 
 ### Overview of Tasks
 * Data cleaning and formatting
