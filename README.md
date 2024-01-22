@@ -1,7 +1,5 @@
 # Algorithmic Trading Project 2 
 ## How to use
-
-https://github.com/Chrisdeleon91/Algorithmic-Trading-Project-2
 1. run the .ipynbs to open the jupyter notebooks
 
 ### Authors: Christopher De Leon, Victor Andujar, Russell Gould
