@@ -1,7 +1,7 @@
 # Algorithmic Trading Project 2 
 ## How to use
-1. run the .ipynbs to open the jupyter notebooks
-2. ##
+run the .ipynbs to open the jupyter notebooks
+##
 
 ### Authors: Christopher De Leon, Victor Andujar, Russell Gould
 
